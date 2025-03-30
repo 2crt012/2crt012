@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2crt012
 - 👀 I’m interested in learning code and making projects for fun.
-- 🌱 I’m currently learning HTML and CSS, but I'm not because I can't motivate myself.
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on nothing, because I like writing code alone.
 
 <!---
